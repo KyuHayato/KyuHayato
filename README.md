@@ -303,33 +303,34 @@ Acredito que **ensinar tecnologia é também uma forma de desenvolver tecnologia
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyuHayato&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+<a href="https://github.com/KyuHayato">
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api?username=KyuHayato&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+       alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHayato&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"/>
+<a href="https://github.com/KyuHayato">
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=KyuHayato&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+       alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
 
-# 🔥 Streak
+## 🔥 Consistency
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KyuHayato&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KyuHayato&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img
+  src="https://streak-stats.demolab.com?user=KyuHayato&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
